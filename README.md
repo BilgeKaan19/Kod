@@ -1,0 +1,2 @@
+# Kod
+Çizgi izleyen kodu
